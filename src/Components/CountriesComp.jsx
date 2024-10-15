@@ -1,4 +1,3 @@
-// import React, { useEffect, useState } from 'react'
 import HeadComp from './HeadComp'
 import { Link } from 'react-router-dom'
 import { useContext } from 'react'
